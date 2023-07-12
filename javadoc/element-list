@@ -1,0 +1,5 @@
+module:com.inventorymanagement
+com.inventorymanagement
+com.inventorymanagement.controller
+com.inventorymanagement.model
+com.inventorymanagement.util
